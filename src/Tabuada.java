@@ -13,7 +13,7 @@ public class Tabuada {
             System.out.println(numero + " x " + i + " = " + (numero * i));
         }
         scanner.close();
-        
+
     }
 }
 
