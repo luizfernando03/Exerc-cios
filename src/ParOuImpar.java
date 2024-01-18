@@ -13,9 +13,7 @@ public class ParOuImpar {
         else {
             System.out.println("O numero é impar: " + numero);
         }
-
+        scanner.close();
 
     }
-
-
 }

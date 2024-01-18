@@ -1,2 +1,2 @@
-public class VerificadorNumerosPrimos {
+public class VerificadorDeNumerosPrimos {
 }
