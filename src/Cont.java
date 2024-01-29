@@ -7,9 +7,11 @@ public class Cont {
         System.out.println("contando ate " + max);
 
 
-        while (i < max ){
+        while (i <= max ){
             System.out.println("valor de i : " + i);
             i++;
+
+            System.out.println("Valor de i; " + i);
         }
 
     }
