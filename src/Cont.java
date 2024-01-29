@@ -16,7 +16,7 @@ public class Cont {
             do {
                 i++;
                 System.out.println("valor de i : " + i);
-            } while (i < 15);
+            } while (i <= 15);
 
             System.out.println(i);
         }
